@@ -1,7 +1,7 @@
 
 import streamlit as st, pandas as pd, random, json, re
 
-st.set_page_config(page_title="PromptStructure3000", page_icon="🪄", layout="wide")
+st.set_page_config(theme={'primaryColor':'#0051FF','base':'light'}, page_title="PromptStructure3000", page_icon="🪄", layout="wide")
 
 # ------------ Load tokens & presets ------------
 @st.cache_data
@@ -12,7 +12,7 @@ def load_tokens():
 @st.cache_data
 def load_presets():
     import json, pathlib
-    with open(pathlib.Path(__file__).with_name("presets.json")) as f:
+    with open('presets.json') as f:
         return json.load(f)
 
 buckets = load_tokens()
