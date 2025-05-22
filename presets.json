@@ -1,30 +1,511 @@
 {
-  "Adventure Sports · Master": {
-    "Main subject": "adventure sport athlete",
-    "Peak action / verb": "mid-air flip over rocky ridge",
-    "Environmental element": "billowing trail of red dust",
-    "Extra cinematic detail": "backlit by golden sun, particles suspended",
-    "Aesthetics": ["Cinematic", "Photorealistic"]
+  "3D Prompt Pack v11 · Master Prompt": {
+    "Main subject": "fintech, product, creative visuals icons",
+    "Peak action / verb": "representing abstract, physical, and digital concepts",
+    "Environmental element": "minimal floating or staged",
+    "Extra cinematic detail": "shot with sharp focus, glossy finish, accent colors",
+    "Aesthetics": ["3D Render", "Minimalism", "Modern"]
   },
-  "Minimalist Fintech Icon": {
-    "Main subject": "minimalist fintech currency token",
+  "3D Prompt Pack v11 · Prompt 1 (Asterisk Symbol)": {
+    "Main subject": "asterisk icon",
     "Peak action / verb": "",
-    "Environmental element": "central floating composition",
-    "Extra cinematic detail": "",
+    "Environmental element": "floating over soft gradient",
+    "Extra cinematic detail": "shiny plastic, soft shadows",
     "Aesthetics": ["Minimalism", "3D Render"]
   },
-  "Retro Product Photography": {
-    "Main subject": "vintage cassette player",
+  "3D Prompt Pack v11 · Prompt 2 (Abstract Globe)": {
+    "Main subject": "abstract globe icon",
     "Peak action / verb": "",
-    "Environmental element": "on a geometric pastel platform",
-    "Extra cinematic detail": "soft direct flash, 90s style branding in the background",
-    "Aesthetics": ["Retro Futurism", "Pastel", "Editorial"]
+    "Environmental element": "floating above glass platform",
+    "Extra cinematic detail": "iridescent highlights, colored gels",
+    "Aesthetics": ["3D Render", "Vaporwave"]
   },
-  "Street Editorial Portrait": {
-    "Main subject": "model in oversized blazer",
-    "Peak action / verb": "leaning against city wall",
-    "Environmental element": "urban graffiti background",
-    "Extra cinematic detail": "moody high contrast, hard edge sunlight",
-    "Aesthetics": ["Noir", "Editorial", "High Fashion"]
+  "3D Prompt Pack v11 · Prompt 3 (Crystal Cube)": {
+    "Main subject": "crystal cube icon",
+    "Peak action / verb": "",
+    "Environmental element": "resting on reflective surface",
+    "Extra cinematic detail": "prismatic light, translucent",
+    "Aesthetics": ["3D Render", "Minimalism"]
+  },
+  "Cats, Lifestyle Pack v4 · Master Prompt": {
+    "Main subject": "cat in lifestyle context",
+    "Peak action / verb": "playing, stretching, lounging",
+    "Environmental element": "cozy home, soft sunlight",
+    "Extra cinematic detail": "plush textiles, natural light, candid moment",
+    "Aesthetics": ["Fine Art", "Photorealistic", "Pastel"]
+  },
+  "Cats, Lifestyle Pack v4 · Prompt 1 (Playful Cat)": {
+    "Main subject": "cat playing with yarn",
+    "Peak action / verb": "chasing string",
+    "Environmental element": "hardwood floor, scattered toys",
+    "Extra cinematic detail": "motion blur, warm light",
+    "Aesthetics": ["Editorial", "Fine Art"]
+  },
+  "Cats, Lifestyle Pack v4 · Prompt 2 (Window Stretch)": {
+    "Main subject": "cat stretching",
+    "Peak action / verb": "",
+    "Environmental element": "window sill, morning sunlight",
+    "Extra cinematic detail": "soft shadow, dust motes",
+    "Aesthetics": ["Photorealistic", "Fine Art"]
+  },
+  "Cats, Lifestyle Pack v4 · Prompt 3 (Falling Man)": {
+    "Main subject": "cat knocking over man figurine",
+    "Peak action / verb": "",
+    "Environmental element": "shelf, collectibles",
+    "Extra cinematic detail": "playful chaos, mid-air",
+    "Aesthetics": ["Editorial", "Concept Art"]
+  },
+  "Prompt Pack v10 · Master Prompt": {
+    "Main subject": "nightlife, avatar, editorial photography",
+    "Peak action / verb": "dancing, socializing, candid",
+    "Environmental element": "crowded club, neon lights",
+    "Extra cinematic detail": "flash, backlight, urban energy",
+    "Aesthetics": ["Cinematic", "Noir", "Vaporwave"]
+  },
+  "Prompt Pack v10 · Prompt 1 (Neon Dance)": {
+    "Main subject": "dancer in neon-lit club",
+    "Peak action / verb": "mid-twirl",
+    "Environmental element": "reflected lights, fog",
+    "Extra cinematic detail": "high energy, motion blur",
+    "Aesthetics": ["Vaporwave", "Cinematic"]
+  },
+  "Prompt Pack v10 · Prompt 2 (Hyper Avatar)": {
+    "Main subject": "avatar portrait",
+    "Peak action / verb": "",
+    "Environmental element": "digital background",
+    "Extra cinematic detail": "3D highlights, bold colors",
+    "Aesthetics": ["3D Render", "High Fashion"]
+  },
+  "Prompt Pack v10 · Prompt 3 (Editorial Nightlife)": {
+    "Main subject": "editorial group photo",
+    "Peak action / verb": "",
+    "Environmental element": "nightlife, bar, club",
+    "Extra cinematic detail": "on-camera flash, candid",
+    "Aesthetics": ["Editorial", "Noir"]
+  },
+  "Prompt Pack v9 · Master Prompt": {
+    "Main subject": "action figure, product, interior design",
+    "Peak action / verb": "posed for maximum drama",
+    "Environmental element": "staged diorama, interior, shelf",
+    "Extra cinematic detail": "soft rim lighting, colorful props",
+    "Aesthetics": ["Cinematic", "Photorealistic"]
+  },
+  "Prompt Pack v9 · Prompt 1 (Product Hero)": {
+    "Main subject": "action figure product shot",
+    "Peak action / verb": "",
+    "Environmental element": "product display, hard light",
+    "Extra cinematic detail": "sharp highlight, shadow play",
+    "Aesthetics": ["High Fashion", "Editorial"]
+  },
+  "Prompt Pack v9 · Prompt 2 (Dramatic Scene)": {
+    "Main subject": "action figure in battle pose",
+    "Peak action / verb": "",
+    "Environmental element": "miniature terrain, fog effect",
+    "Extra cinematic detail": "backlight, tension",
+    "Aesthetics": ["Cinematic", "Concept Art"]
+  },
+  "Prompt Pack v9 · Prompt 3 (Interior Showcase)": {
+    "Main subject": "interior design, staged room",
+    "Peak action / verb": "",
+    "Environmental element": "open window, sunlight",
+    "Extra cinematic detail": "mid-century furniture, clean lines",
+    "Aesthetics": ["Modern", "Minimalism"]
+  },
+  "Prompt Pack V3 · Master Prompt": {
+    "Main subject": "illustration, artistic, retro styles",
+    "Peak action / verb": "dynamic movement, stylized poses",
+    "Environmental element": "graphic background, pattern",
+    "Extra cinematic detail": "vivid color, halftone, paper texture",
+    "Aesthetics": ["Pop Art", "Retro Futurism"]
+  },
+  "Prompt Pack V3 · Prompt 1 (Vintage Illustration)": {
+    "Main subject": "vintage car illustration",
+    "Peak action / verb": "",
+    "Environmental element": "highway background",
+    "Extra cinematic detail": "flat color, paper texture",
+    "Aesthetics": ["Retro Futurism", "Pop Art"]
+  },
+  "Prompt Pack V3 · Prompt 2 (Pop Art Portrait)": {
+    "Main subject": "pop art portrait",
+    "Peak action / verb": "",
+    "Environmental element": "comic pattern, colored halftones",
+    "Extra cinematic detail": "high contrast, stylized lines",
+    "Aesthetics": ["Pop Art", "Editorial"]
+  },
+  "Prompt Pack V3 · Prompt 3 (Line Art Scene)": {
+    "Main subject": "urban scene in line art",
+    "Peak action / verb": "",
+    "Environmental element": "buildings, perspective lines",
+    "Extra cinematic detail": "sketch texture, minimal palette",
+    "Aesthetics": ["Sketch / Ink", "Minimalism"]
+  },
+  "Prompt Pack v8 · Master Prompt": {
+    "Main subject": "food, architecture, glitter product",
+    "Peak action / verb": "serving, plated, on display",
+    "Environmental element": "studio backdrop, architecture exterior",
+    "Extra cinematic detail": "shallow depth, glitter or sparkle highlights",
+    "Aesthetics": ["Editorial", "Photorealistic", "High Fashion"]
+  },
+  "Prompt Pack v8 · Prompt 1 (Food Editorial)": {
+    "Main subject": "gourmet food editorial",
+    "Peak action / verb": "",
+    "Environmental element": "fine china, studio backdrop",
+    "Extra cinematic detail": "macro lens, perfect garnish",
+    "Aesthetics": ["Fine Art", "Editorial"]
+  },
+  "Prompt Pack v8 · Prompt 2 (Glitter Product)": {
+    "Main subject": "product with glitter",
+    "Peak action / verb": "",
+    "Environmental element": "minimal pedestal, colored background",
+    "Extra cinematic detail": "sparkle, hard light",
+    "Aesthetics": ["High Fashion", "Modern"]
+  },
+  "Prompt Pack v8 · Prompt 3 (Modern Architecture)": {
+    "Main subject": "modern building exterior",
+    "Peak action / verb": "",
+    "Environmental element": "glass facade, blue sky",
+    "Extra cinematic detail": "reflective surface, sunset",
+    "Aesthetics": ["Modern", "Photorealistic"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Master Prompt": {
+    "Main subject": "luxury objects, transparent tech, cars",
+    "Peak action / verb": "showcase, product focus",
+    "Environmental element": "studio, urban, road",
+    "Extra cinematic detail": "shiny reflections, high detail",
+    "Aesthetics": ["Photorealistic", "Modern"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 1 (Luxury Object)": {
+    "Main subject": "luxury watch product shot",
+    "Peak action / verb": "",
+    "Environmental element": "dark background, spotlit",
+    "Extra cinematic detail": "reflections, crisp glass",
+    "Aesthetics": ["High Fashion", "Modern"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 2 (Transparent Tech)": {
+    "Main subject": "transparent smartphone render",
+    "Peak action / verb": "",
+    "Environmental element": "minimal desk",
+    "Extra cinematic detail": "see-through, internal circuits",
+    "Aesthetics": ["3D Render", "Minimalism"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 3 (Classic Car)": {
+    "Main subject": "classic convertible on road",
+    "Peak action / verb": "",
+    "Environmental element": "sunset, city skyline",
+    "Extra cinematic detail": "chrome details, headlight glare",
+    "Aesthetics": ["Vintage / Retro", "Photorealistic"]
+  },
+  "Advanced Prompt Pack v7 · Master Prompt": {
+    "Main subject": "adventure sports, fashion photography",
+    "Peak action / verb": "action, energy, peak movement",
+    "Environmental element": "mountains, waves, desert, city",
+    "Extra cinematic detail": "motion blur, gear details",
+    "Aesthetics": ["Cinematic", "High Fashion"]
+  },
+  "Advanced Prompt Pack v7 · Prompt 1 (Adventure Sports)": {
+    "Main subject": "athlete in peak action",
+    "Peak action / verb": "",
+    "Environmental element": "outdoor extreme environment",
+    "Extra cinematic detail": "spray of water, dust, snow",
+    "Aesthetics": ["Cinematic", "Photorealistic"]
+  },
+  "Advanced Prompt Pack v7 · Prompt 2 (Lifestyle Fashion)": {
+    "Main subject": "fashion model urban scene",
+    "Peak action / verb": "",
+    "Environmental element": "sunset city, rooftop",
+    "Extra cinematic detail": "dramatic shadows, glossy jacket",
+    "Aesthetics": ["Editorial", "Noir"]
+  },
+  "Advanced Prompt Pack v7 · Prompt 3 (Editorial Sora)": {
+    "Main subject": "editorial portrait Sora style",
+    "Peak action / verb": "",
+    "Environmental element": "moody studio, colored gel",
+    "Extra cinematic detail": "soft focus, fashion forward",
+    "Aesthetics": ["Fine Art", "Cinematic"]
+  },
+  "AI Prompt Collection Vol. 1 · Master Prompt": {
+    "Main subject": "UI micrographic, retro logo",
+    "Peak action / verb": "displayed, icon style",
+    "Environmental element": "clean UI, soft grid",
+    "Extra cinematic detail": "retro color palette, thin lines",
+    "Aesthetics": ["Retro Futurism", "Minimalism"]
+  },
+  "AI Prompt Collection Vol. 1 · Prompt 1 (UI Icon)": {
+    "Main subject": "micrographic UI icon",
+    "Peak action / verb": "",
+    "Environmental element": "digital, floating",
+    "Extra cinematic detail": "soft gradients, thin strokes",
+    "Aesthetics": ["Minimalism", "3D Render"]
+  },
+  "AI Prompt Collection Vol. 1 · Prompt 2 (Logo Mark)": {
+    "Main subject": "retro logo mark",
+    "Peak action / verb": "",
+    "Environmental element": "paper, desk",
+    "Extra cinematic detail": "worn texture, faded ink",
+    "Aesthetics": ["Vintage / Retro", "Pop Art"]
+  },
+  "AI Prompt Collection Vol. 1 · Prompt 3 (Icon Set)": {
+    "Main subject": "icon set in UI",
+    "Peak action / verb": "",
+    "Environmental element": "dashboard, monochrome",
+    "Extra cinematic detail": "clean, high contrast",
+    "Aesthetics": ["Minimalism", "Editorial"]
+  },
+  "3D Prompt Pack v4 · Master Prompt": {
+    "Main subject": "visual realism, stylized objects",
+    "Peak action / verb": "dynamic pose or arrangement",
+    "Environmental element": "neutral studio, soft gradient",
+    "Extra cinematic detail": "hyperreal textures, surface imperfections",
+    "Aesthetics": ["Photorealistic", "3D Render"]
+  },
+  "3D Prompt Pack v4 · Prompt 1 (Realistic Object)": {
+    "Main subject": "futuristic bottle product",
+    "Peak action / verb": "",
+    "Environmental element": "studio, white background",
+    "Extra cinematic detail": "hyperreal lighting, subtle reflections",
+    "Aesthetics": ["Minimalism", "3D Render"]
+  },
+  "3D Prompt Pack v4 · Prompt 2 (Stylized Scene)": {
+    "Main subject": "stylized desk lamp",
+    "Peak action / verb": "",
+    "Environmental element": "colorful tabletop",
+    "Extra cinematic detail": "cartoonish gloss, soft edges",
+    "Aesthetics": ["Surrealist", "Pop Art"]
+  },
+  "3D Prompt Pack v4 · Prompt 3 (Editorial Set)": {
+    "Main subject": "editorial object arrangement",
+    "Peak action / verb": "",
+    "Environmental element": "fashion mag spread, pastel background",
+    "Extra cinematic detail": "clean shadows, punchy color",
+    "Aesthetics": ["Editorial", "Pastel"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Master Prompt": {
+    "Main subject": "cat, product, lifestyle",
+    "Peak action / verb": "posed, candid",
+    "Environmental element": "home, soft furniture, sunbeam",
+    "Extra cinematic detail": "fur texture, cozy textiles",
+    "Aesthetics": ["Fine Art", "Editorial"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Prompt 1 (Cat Editorial)": {
+    "Main subject": "cat on velvet chair",
+    "Peak action / verb": "",
+    "Environmental element": "morning sun, living room",
+    "Extra cinematic detail": "dappled shadow, whisker detail",
+    "Aesthetics": ["Fine Art", "Pastel"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Prompt 2 (Product Hero)": {
+    "Main subject": "cat with product box",
+    "Peak action / verb": "",
+    "Environmental element": "tabletop, packaging",
+    "Extra cinematic detail": "product sharp, cat soft focus",
+    "Aesthetics": ["Editorial", "Minimalism"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Prompt 3 (Lifestyle Action)": {
+    "Main subject": "cat leaping over sofa",
+    "Peak action / verb": "",
+    "Environmental element": "messy couch, pillows",
+    "Extra cinematic detail": "motion blur, flying fur",
+    "Aesthetics": ["Cinematic", "Photorealistic"]
+  },
+  "Prompt Pack v8 · Prompt 4 (Dessert Editorial)": {
+    "Main subject": "dessert on white plate",
+    "Peak action / verb": "",
+    "Environmental element": "textured linen, top-down view",
+    "Extra cinematic detail": "soft pastel color, studio",
+    "Aesthetics": ["Fine Art", "Pastel"]
+  },
+  "Prompt Pack v9 · Prompt 4 (Moody Bedroom)": {
+    "Main subject": "bedroom at dusk",
+    "Peak action / verb": "",
+    "Environmental element": "window, blue hour",
+    "Extra cinematic detail": "soft bokeh, dark shadows",
+    "Aesthetics": ["Moody / Dark", "Fine Art"]
+  },
+  "Prompt Pack v9 · Prompt 5 (Modern Workspace)": {
+    "Main subject": "sleek workspace setup",
+    "Peak action / verb": "",
+    "Environmental element": "minimal desk, ambient lamp",
+    "Extra cinematic detail": "reflections, tidy cables",
+    "Aesthetics": ["Minimalism", "Modern"]
+  },
+  "Prompt Pack v10 · Prompt 4 (Editorial Bar)": {
+    "Main subject": "editorial group at bar",
+    "Peak action / verb": "",
+    "Environmental element": "marble counter, glassware",
+    "Extra cinematic detail": "flash bounce, social vibe",
+    "Aesthetics": ["Editorial", "Noir"]
+  },
+  "Prompt Pack v10 · Prompt 5 (Nightlife Crowd)": {
+    "Main subject": "crowd dancing in club",
+    "Peak action / verb": "",
+    "Environmental element": "LEDs, fog, silhouettes",
+    "Extra cinematic detail": "energy, candid",
+    "Aesthetics": ["Cinematic", "Vaporwave"]
+  },
+  "3D Prompt Pack v11 · Prompt 4 (Digital Currency)": {
+    "Main subject": "digital coin icon",
+    "Peak action / verb": "",
+    "Environmental element": "floating, white gradient",
+    "Extra cinematic detail": "metallic, polished",
+    "Aesthetics": ["Minimalism", "3D Render"]
+  },
+  "3D Prompt Pack v11 · Prompt 5 (Bank Icon)": {
+    "Main subject": "bank building icon",
+    "Peak action / verb": "",
+    "Environmental element": "stone plinth, frontal",
+    "Extra cinematic detail": "brushed texture, shadow",
+    "Aesthetics": ["3D Render", "Modern"]
+  },
+  "3D Prompt Pack v11 · Prompt 6 (Mobile Payment)": {
+    "Main subject": "mobile payment icon",
+    "Peak action / verb": "",
+    "Environmental element": "smartphone, floating",
+    "Extra cinematic detail": "blue accent, digital style",
+    "Aesthetics": ["3D Render", "Minimalism"]
+  },
+  "Prompt Pack v8 · Prompt 5 (Golden Croissant)": {
+    "Main subject": "croissant on marble plate",
+    "Peak action / verb": "",
+    "Environmental element": "gold flatware, sunbeam",
+    "Extra cinematic detail": "crisp crumb detail, rich gold color",
+    "Aesthetics": ["Fine Art", "Photorealistic"]
+  },
+  "Prompt Pack V3 · Prompt 4 (Surreal Scene)": {
+    "Main subject": "figure floating above city",
+    "Peak action / verb": "",
+    "Environmental element": "surreal clouds, high-rise",
+  },
+  "Advanced Prompt Pack v7 · Prompt 4 (Desert Rider)": {
+    "Main subject": "motocross rider mid-air",
+    "Peak action / verb": "jumping dune",
+    "Environmental element": "desert, dust trail",
+    "Extra cinematic detail": "golden hour, frozen sand",
+    "Aesthetics": ["Cinematic", "Photorealistic"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 4 (Red Bar Lounge)": {
+    "Main subject": "red-lit bar interior",
+    "Peak action / verb": "",
+    "Environmental element": "glossy bar top, glassware",
+    "Extra cinematic detail": "soft neon, moody ambiance",
+    "Aesthetics": ["Noir", "Editorial"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 5 (Tech Showcase)": {
+    "Main subject": "tech gadget on stand",
+    "Peak action / verb": "",
+    "Environmental element": "display plinth, black background",
+    "Extra cinematic detail": "dramatic spotlight, reflection",
+    "Aesthetics": ["3D Render", "Minimalism"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Prompt 4 (Window Watcher)": {
+    "Main subject": "cat watching through window",
+    "Peak action / verb": "",
+    "Environmental element": "sunlit glass, garden",
+    "Extra cinematic detail": "soft reflection, curious gaze",
+    "Aesthetics": ["Fine Art", "Photorealistic"]
+  },
+  "Prompt Pack v9 · Prompt 6 (Bright Living Room)": {
+    "Main subject": "sunny living room interior",
+    "Peak action / verb": "",
+    "Environmental element": "open windows, potted plants",
+    "Extra cinematic detail": "bright pastel decor",
+    "Aesthetics": ["Modern", "Pastel"]
+  },
+  "Prompt Pack v8 · Prompt 6 (Midnight Snack)": {
+    "Main subject": "midnight snack on plate",
+    "Peak action / verb": "",
+    "Environmental element": "kitchen, open fridge",
+    "Extra cinematic detail": "blue cast, dramatic shadow",
+    "Aesthetics": ["Cinematic", "Noir"]
+  },
+  "3D Prompt Pack v4 · Prompt 4 (Tech Ornament)": {
+    "Main subject": "tech gadget as ornament",
+    "Peak action / verb": "",
+    "Environmental element": "holiday decor, tree",
+    "Extra cinematic detail": "silver and glass, twinkle lights",
+    "Aesthetics": ["3D Render", "Photorealistic"]
+  },
+  "Prompt Pack V3 · Prompt 5 (Graphic Poster)": {
+    "Main subject": "bold typographic poster",
+    "Peak action / verb": "",
+    "Environmental element": "abstract shapes, high contrast",
+    "Extra cinematic detail": "paper grain, torn edge",
+    "Aesthetics": ["Bauhaus", "Pop Art"]
+  },
+  "Prompt Pack v10 · Prompt 6 (Club DJ)": {
+    "Main subject": "DJ at nightclub booth",
+    "Peak action / verb": "",
+    "Environmental element": "LED screens, fog",
+    "Extra cinematic detail": "motion blur, colored lights",
+    "Aesthetics": ["Vaporwave", "Cinematic"]
+  },
+  "Prompt Pack v10 · Prompt 7 (Editorial Closeup)": {
+    "Main subject": "editorial close-up face",
+    "Peak action / verb": "",
+    "Environmental element": "magazine-style, bold make-up",
+    "Extra cinematic detail": "skin texture, sharp lighting",
+    "Aesthetics": ["High Fashion", "Editorial"]
+  },
+  "3D Prompt Pack v11 · Prompt 7 (Safe Icon)": {
+    "Main subject": "safe vault icon",
+    "Peak action / verb": "",
+    "Environmental element": "chrome, dark gradient",
+    "Extra cinematic detail": "polished, round handle",
+    "Aesthetics": ["3D Render", "Minimalism"]
+  },
+  "Prompt Pack v9 · Prompt 7 (Industrial Kitchen)": {
+    "Main subject": "chef in industrial kitchen",
+    "Peak action / verb": "",
+    "Environmental element": "stainless steel counters, utensils",
+    "Extra cinematic detail": "steam, sharp highlights",
+    "Aesthetics": ["Photorealistic", "Modern"]
+  },
+  "Advanced Prompt Pack v7 · Prompt 5 (City Runner)": {
+    "Main subject": "runner in city streets",
+    "Peak action / verb": "",
+    "Environmental element": "urban buildings, night",
+    "Extra cinematic detail": "neon blur, wet pavement",
+    "Aesthetics": ["Noir", "Photorealistic"]
+  },
+  "AI Prompt Collection Vol. 1 · Prompt 4 (Retro Badge)": {
+    "Main subject": "retro badge mark",
+    "Peak action / verb": "",
+    "Environmental element": "embossed paper, table",
+    "Extra cinematic detail": "shadow, faded edges",
+    "Aesthetics": ["Vintage / Retro", "Minimalism"]
+  },
+  "3D Prompt Pack v11 · Prompt 8 (Safe Deposit)": {
+    "Main subject": "safe deposit icon",
+    "Peak action / verb": "",
+    "Environmental element": "vault, stacked boxes",
+    "Extra cinematic detail": "matte metal, shadow cast",
+    "Aesthetics": ["3D Render", "Modern"]
+  },
+  "Prompt Pack v8 · Prompt 7 (Outdoor Cafe)": {
+    "Main subject": "people at outdoor cafe",
+    "Peak action / verb": "",
+    "Environmental element": "sidewalk, umbrellas",
+    "Extra cinematic detail": "sunlit, city street",
+    "Aesthetics": ["Fine Art", "Editorial"]
+  },
+  "Cats, Lifestyle & Product Photography Prompt Pack v4 · Prompt 5 (Cat & Laptop)": {
+    "Main subject": "cat with laptop",
+    "Peak action / verb": "",
+    "Environmental element": "desk, window view",
+    "Extra cinematic detail": "morning sun, relaxed pose",
+    "Aesthetics": ["Fine Art", "Minimalism"]
+  },
+  "Mixed Prompt Pack Vol. 6 · Prompt 6 (Classic Red Car)": {
+    "Main subject": "classic red convertible",
+    "Peak action / verb": "",
+    "Environmental element": "roadside, dusk",
+    "Extra cinematic detail": "chrome accents, glowing taillights",
+    "Aesthetics": ["Vintage / Retro", "Photorealistic"]
+  },
+  "Prompt Pack v9 · Prompt 8 (Minimal Bathroom)": {
+    "Main subject": "minimalist bathroom",
+    "Peak action / verb": "",
+    "Environmental element": "white tile, glass shower",
+    "Extra cinematic detail": "soft light, blue towel",
+    "Aesthetics": ["Minimalism", "Modern"]
   }
 }
