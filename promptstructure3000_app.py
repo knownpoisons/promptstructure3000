@@ -104,6 +104,17 @@ for i,bucket in enumerate(bucket_order):
     col=left if i%2==0 else right
     with col:
         selections[bucket] = st.multiselect(f"{bucket} ({helpers[bucket]})", buckets[bucket], key=bucket, default=selections[bucket])
+        if selections[bucket]:
+            st.session_state['last_token']=selections[bucket][-1]
+
+
+# ---------- Token helper side panel ----------
+with st.sidebar:
+    st.header("Token Helper")
+    last_token = st.session_state.get("last_token", "")
+    if last_token:
+        st.markdown(f"**{last_token}**")
+
 
 # ------------ Actions ------------
 a1,a2,a3 = st.columns(3)
