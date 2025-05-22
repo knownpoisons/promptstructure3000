@@ -1,16 +1,30 @@
 {
-  "Sample Adventure Sports": {
+  "Adventure Sports · Master": {
     "Main subject": "adventure sport athlete",
-    "Peak action / verb": "mid\u2011air bike flip",
-    "Environmental element": "spray of red dust",
-    "Setting / Environment": [
-      "sun\u2011drenched desert"
-    ]
+    "Peak action / verb": "mid-air flip over rocky ridge",
+    "Environmental element": "billowing trail of red dust",
+    "Extra cinematic detail": "backlit by golden sun, particles suspended",
+    "Aesthetics": ["Cinematic", "Photorealistic"]
   },
-  "Sample Fintech Icon": {
-    "Main subject": "minimalist fintech icon",
-    "Setting / Environment": [
-      "infinite white studio sweep"
-    ]
+  "Minimalist Fintech Icon": {
+    "Main subject": "minimalist fintech currency token",
+    "Peak action / verb": "",
+    "Environmental element": "central floating composition",
+    "Extra cinematic detail": "",
+    "Aesthetics": ["Minimalism", "3D Render"]
+  },
+  "Retro Product Photography": {
+    "Main subject": "vintage cassette player",
+    "Peak action / verb": "",
+    "Environmental element": "on a geometric pastel platform",
+    "Extra cinematic detail": "soft direct flash, 90s style branding in the background",
+    "Aesthetics": ["Retro Futurism", "Pastel", "Editorial"]
+  },
+  "Street Editorial Portrait": {
+    "Main subject": "model in oversized blazer",
+    "Peak action / verb": "leaning against city wall",
+    "Environmental element": "urban graffiti background",
+    "Extra cinematic detail": "moody high contrast, hard edge sunlight",
+    "Aesthetics": ["Noir", "Editorial", "High Fashion"]
   }
 }
