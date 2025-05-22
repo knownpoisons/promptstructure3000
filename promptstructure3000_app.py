@@ -18,7 +18,7 @@ button, .stButton > button {
 """, unsafe_allow_html=True)
 
 # --- TOP EXPLAINER & EXAMPLE ---
-st.markdown("""
+st.markdown(""
 # PromptStructure3000
 
 PromptStructure3000 lets you build advanced, structured image prompts using the blueprints from the PDF prompt packs. Load a preset, edit, and copy for Midjourney, Sora, or any AI image tool.
