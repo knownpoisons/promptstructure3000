@@ -67,7 +67,7 @@ st.subheader("Core narrative")
 subject = st.text_input("Main subject")
 action = st.text_input("Peak action / verb")
 env_desc = st.text_input("Environmental element")
-narrative_extra = st.text_area("Extra cinematic detail", height=60)
+narrative_extra = st.text_area("Extra cinematic detail", height=80)
 
 # ------------ Buckets ------------
 helpers = {
