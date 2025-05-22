@@ -1,12 +1,7 @@
 
 import streamlit as st, pandas as pd, random, json, re
 
-st.set_page_config(
-    page_title="PromptStructure3000",
-    page_icon="🪄",
-    layout="wide",
-    theme={'primaryColor': '#0051FF', 'base': 'light'}
-)
+st.set_page_config(page_title="PromptStructure3000", page_icon="🪄", layout="wide")
 
 # ------------ Load tokens & presets ------------
 @st.cache_data
